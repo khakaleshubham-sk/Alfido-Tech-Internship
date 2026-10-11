@@ -32,4 +32,5 @@ The dataset analysis shows that Quick Bites is the most common restaurant
 type in the data. Online ordering is more common than table booking.
 
 ## Author
-Student - Information Technology
+Name: Shubham Khakale
+Course: Third Year Engineering — Information Technology (TE IT)
